@@ -6,10 +6,14 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            string Place = "irving";
-            Console.WriteLine(Place);
+            for (int i=0; i < 10; i++)
+            {
+                 Console.WriteLine("Hello World!");
+                 string Place = "irving";
+                Console.WriteLine(Place);
+            }
+           
+            
         }
     }
 }

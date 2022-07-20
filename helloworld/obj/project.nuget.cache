@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJ1PYW4IZ9NhvHiF+1uH+y9hx0hUZ48a9cCkaByoMtfWdlZdtTd1j4TFfVNBOw04VO8/kHubdzUnnhxSKvEN+Q==",
+  "dgSpecHash": "5JN4ZYd6m40Mjc9sGMGxEjkAHiW7F4+N3af9qlsykWuU0PdReeWyGVpBnsd3NYFruC8ujtsPkc+Tydpg8vRRiQ==",
   "success": true,
-  "projectFilePath": "/Users/diwashdhungana/Projects/helloworld/Projects.csproj",
+  "projectFilePath": "/Users/diwashdhungana/Projects/dotnet/helloworld/Projects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

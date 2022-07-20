@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diwashdhungana/Projects/helloworld/Projects.csproj",
+      "projectUniqueName": "/Users/diwashdhungana/Projects/dotnet/helloworld/Projects.csproj",
       "projectName": "Projects",
-      "projectPath": "/Users/diwashdhungana/Projects/helloworld/Projects.csproj",
+      "projectPath": "/Users/diwashdhungana/Projects/dotnet/helloworld/Projects.csproj",
       "packagesPath": "/Users/diwashdhungana/.nuget/packages/",
-      "outputPath": "/Users/diwashdhungana/Projects/helloworld/obj/",
+      "outputPath": "/Users/diwashdhungana/Projects/dotnet/helloworld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/diwashdhungana/.nuget/NuGet/NuGet.Config"
